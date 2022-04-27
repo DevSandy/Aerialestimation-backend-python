@@ -39,8 +39,8 @@ def index():
     conn = pymysql.Connect(
             host="localhost",
             port=3306,
-            user="root",
-            password="",
+            user="aerialestimation",
+            password="8KgjBMUzq4}U",
             db="aerialestimation",
             autocommit=True
         )
@@ -52,8 +52,8 @@ def index():
     conn = pymysql.Connect(
             host="localhost",
             port=3306,
-            user="root",
-            password="",
+            user="aerialestimation",
+            password="8KgjBMUzq4}U",
             db="aerialestimation",
             autocommit=True
         )
@@ -68,8 +68,8 @@ def index():
     conn = pymysql.Connect(
             host="localhost",
             port=3306,
-            user="root",
-            password="",
+            user="aerialestimation",
+            password="8KgjBMUzq4}U",
             db="aerialestimation",
             autocommit=True
         )
@@ -83,8 +83,8 @@ def index():
     conn = pymysql.Connect(
             host="localhost",
             port=3306,
-            user="root",
-            password="",
+            user="aerialestimation",
+            password="8KgjBMUzq4}U",
             db="aerialestimation",
             autocommit=True
         )
@@ -98,8 +98,8 @@ def index():
     conn = pymysql.Connect(
             host="localhost",
             port=3306,
-            user="root",
-            password="",
+            user="aerialestimation",
+            password="8KgjBMUzq4}U",
             db="aerialestimation",
             autocommit=True
         )
