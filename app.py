@@ -40,7 +40,7 @@ def index():
             host="localhost",
             port=3306,
             user="root",
-            password="Aerial_0655",
+            password="",
             db="aerialestimation",
             autocommit=True
         )
@@ -53,7 +53,7 @@ def index():
             host="localhost",
             port=3306,
             user="root",
-            password="Aerial_0655",
+            password="",
             db="aerialestimation",
             autocommit=True
         )
@@ -69,7 +69,7 @@ def index():
             host="localhost",
             port=3306,
             user="root",
-            password="Aerial_0655",
+            password="",
             db="aerialestimation",
             autocommit=True
         )
@@ -84,7 +84,7 @@ def index():
             host="localhost",
             port=3306,
             user="root",
-            password="Aerial_0655",
+            password="",
             db="aerialestimation",
             autocommit=True
         )
@@ -99,7 +99,7 @@ def index():
             host="localhost",
             port=3306,
             user="root",
-            password="Aerial_0655",
+            password="",
             db="aerialestimation",
             autocommit=True
         )
